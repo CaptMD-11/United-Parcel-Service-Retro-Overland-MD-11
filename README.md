@@ -1,6 +1,6 @@
 Hello,
 
-Thank you for downloading this livery! This file contains the Western Global Airlines (White) livery for the X-Plane Overland MD-11.
+Thank you for downloading this livery! This file contains the United Parcel Service (Retro) livery for the X-Plane Overland MD-11.
 
 Here are some screenshots:
 
